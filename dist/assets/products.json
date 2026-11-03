@@ -1,0 +1,154 @@
+[
+  {
+    "id": "bow-necklace",
+    "name": "ფიონკა",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/bow-necklace.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "butterfly-pink",
+    "name": "პეპელა, ვარდისფერი",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/butterfly-pink.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "blue-clover",
+    "name": "ლურჯი ოთხფურცელა",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/blue-clover.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "teddy-pink",
+    "name": "დათუნია, ვარდისფერი",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/teddy-pink.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "flower-sparkle",
+    "name": "ბრწყინვალე ყვავილი",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/flower-sparkle.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "enamel-bracelet",
+    "name": "ფირუზისფერი მინანქარი",
+    "category": "სამაჯური",
+    "photo": "assets/products/enamel-bracelet.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "green-star",
+    "name": "მწვანე ვარსკვლავი",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/green-star.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "enamel-earrings",
+    "name": "ფირუზისფერი მინანქარი",
+    "category": "საყურეები",
+    "photo": "assets/products/enamel-earrings.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "snake-bangle",
+    "name": "გველი",
+    "category": "სამაჯური",
+    "photo": "assets/products/snake-bangle.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "butterfly-rainbow",
+    "name": "პეპელა, ფერადი",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/butterfly-rainbow.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "violet-halo",
+    "name": "იასამნისფერი ქვა",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/violet-halo.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "pink-cushion",
+    "name": "ვარდისფერი კვადრატი",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/pink-cushion.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "stars-violet",
+    "name": "ვარსკვლავები, იისფერი",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/stars-violet.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "stars-blue",
+    "name": "ვარსკვლავები, ლურჯი",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/stars-blue.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "stars-white",
+    "name": "ვარსკვლავები, თეთრი",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/stars-white.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "teddy-rainbow",
+    "name": "დათუნია, ფერადი",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/teddy-rainbow.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "red-flowers",
+    "name": "წითელი ყვავილები",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/red-flowers.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "flower-pearl",
+    "name": "ყვავილი მარგალიტით",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/flower-pearl.jpg",
+    "price": "",
+    "soldOut": false
+  },
+  {
+    "id": "five-stones",
+    "name": "ხუთი ქვა",
+    "category": "ყელსაბამი",
+    "photo": "assets/products/five-stones.jpg",
+    "price": "",
+    "soldOut": false
+  }
+]
